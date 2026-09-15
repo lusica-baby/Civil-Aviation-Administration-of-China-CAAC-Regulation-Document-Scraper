@@ -1,0 +1,23 @@
+# ---- 抓取产物：体积可达数 GB，绝不入库 ----
+caac_regs_data/
+民航法规资料库/
+_state/
+*.part
+
+# 生成的索引（跑脚本重建即可，不进仓库）
+民航法规索引.xlsx
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
