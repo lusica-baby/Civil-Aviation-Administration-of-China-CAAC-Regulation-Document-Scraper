@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32243633/README.md)
 # 民航局规章文档抓取器
 
 批量抓取 **中国民用航空局（CAAC）** 官网政府信息公开栏目下的公开规章与技术文档，落盘为一套可直接检索的本地资料库。
